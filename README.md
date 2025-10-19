@@ -23,3 +23,10 @@
 
 ### 코사인 유사도 참고
 https://wikidocs.net/24603 
+
+
+### 태블로(Tableau) - 카드회사별 카드혜택 시각화
+https://public.tableau.com/app/profile/juoh.hong/viz/__17608501466440/1_1?publish=yes
+
+### 태블로(Tableau) - 남녀별 카드이용건수 및 이용금액계
+https://public.tableau.com/app/profile/juoh.hong/viz/__17608502192550/2?publish=yes
